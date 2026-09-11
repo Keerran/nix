@@ -1,0 +1,4 @@
+[submodule "dotfiles/nvim"]
+	path = dotfiles/nvim
+	url = https://github.com/Keerran/nvim
+	branch = v2
